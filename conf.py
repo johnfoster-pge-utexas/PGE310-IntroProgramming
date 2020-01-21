@@ -93,7 +93,11 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 # You should provide a key-value pair for each used language.
 # (the same way you would do with a (translatable) setting.)
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (("/syllabus/", "Syllabus"), ("/course-mat/", "Course Materials"))
+    DEFAULT_LANG: (
+        ("/syllabus/", "Syllabus"),
+        ("/course-mat/", "Course Materials"),
+        ("https://johntfoster.github.io/numerical_methods_book", "Book"),
+    )
 }
 
 # Name of the theme to use.
