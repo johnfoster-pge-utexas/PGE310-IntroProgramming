@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "John T. Foster"  # (translatable)
-BLOG_TITLE = "Numerical Analysis and Computer Programming"  # (translatable)
+BLOG_TITLE = "Numerical Methods and Computer Programming"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
 # SITE_URL = "https://johntfoster.github.com/PGE310-IntroProgramming/"
