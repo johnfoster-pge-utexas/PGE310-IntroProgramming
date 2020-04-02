@@ -96,7 +96,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/syllabus/", "Syllabus"),
         ("/course-mat/", "Course Materials"),
-        ("https://johntfoster.github.io/numerical_methods_book", "Book"),
+        ("https://johnfoster.pge.utexas.edu/numerical-methods-book", "Book"),
     )
 }
 
