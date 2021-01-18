@@ -15,6 +15,11 @@ jobs:
           conda config --show-sources
           conda config --show
           conda activate PGE310
+      - name: Install Nikola
+        shell: bash -l {0}
+        run: |
+          pip install markdown==2.6.6
+          pip install nikola==7.7.12
       - name: Build Site
         shell: bash -l {0}
         run: nikola build
