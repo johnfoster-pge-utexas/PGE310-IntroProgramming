@@ -18,7 +18,7 @@ jobs:
           conda config --show
       - name: Build Site
         shell: bash -l {0}
-        shell: nikola build
+        run: nikola build
       - name: Deploy to Github 
         shell: bash -l {0}
         run: nikola github_deploy
