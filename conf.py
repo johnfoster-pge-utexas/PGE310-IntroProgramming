@@ -3,6 +3,8 @@
 from __future__ import unicode_literals
 import time
 
+NIKOLA_DEBUG=1
+
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
 
@@ -687,7 +689,7 @@ SOCIAL_BUTTONS_CODE = ""
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
-UNSLUGIFY_TITLES = True
+FILE_METADATA_UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}
