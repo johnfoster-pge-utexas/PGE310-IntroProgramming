@@ -14,12 +14,12 @@
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** CPE 3.114  
+**Class Location:** Online
 **Class Time:** T-Th 11:00 AM - 12:30 PM  
 **Office Hours:** By appointment.  **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable. 
 
 
-**Course Website:** [https://utexas.instructure.com/courses/1266928](https://utexas.instructure.com/courses/1266928) 
+**Course Website:** [https://utexas.instructure.com/courses/1298934](https://utexas.instructure.com/courses/1298934) 
 
 **Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">https://spindletop.pge.utexas.edu</a>
 
@@ -41,11 +41,9 @@ I will provide you with a comprehensive set of notes and will ensure that you wi
 
 **Online Python tutorials:**
 
-We will spend a few weeks learning some basic Python syntax and computer programming flow control conventions as part of this class; however, I strongly encourage you to utilize one of the online courses designed to teach Python.  Two I recommend are:
+We will spend a few weeks learning some basic Python syntax and computer programming flow control conventions as part of this class; however, I strongly encourage you to utilize one of the online courses designed to teach Python.  I recommend:
 
 1. [Codecademy](https://www.codecademy.com/catalog/language/python) - Free 7-day trail
-
-1. [Datacamp](https://www.datacamp.com/) - Information on how to aquire a free 2-month trail [here](https://www.c-sharpcorner.com/blogs/steps-to-activate-free-access-to-datacamp-pulralsight-linkedin-learning-etc-through-visual-studio-dev-essentials-program)
 
 **Course Introduction and Outline:**
 
