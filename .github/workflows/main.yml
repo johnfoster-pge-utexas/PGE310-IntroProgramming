@@ -1,11 +1,24 @@
-on: [push]
-
+on: push
 jobs:
-  nikola_build:
-    runs-on: ubuntu-latest
-    name: 'Deploy Nikola to GitHub Pages'
+  conda:
+    runs-on: "ubuntu-latest"
     steps:
-    - name: Check out
-      uses: actions/checkout@v2
-    - name: Build and Deploy Nikola
-      uses: getnikola/nikola-action@v3
+      - uses: actions/checkout@v2
+      - uses: goanpeca/setup-miniconda@v1
+        with:
+          python-version: 3.6
+          environment-file: environment.yml
+          activate-environment: PGE310
+      - name: Conda Info
+        shell: bash -l {0}
+        run: |
+          conda info
+          conda list
+          conda config --show-sources
+          conda config --show
+      - name: Build Site
+        shell: bash -l {0}
+        shell: nikola build
+      - name: Deploy to Github 
+        shell: bash -l {0}
+        run: nikola github_deploy
