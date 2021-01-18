@@ -17,8 +17,7 @@ jobs:
       - name: Install Nikola
         shell: bash -l {0}
         run: |
-          pip install markdown==2.6.6
-          pip install nikola==7.7.12
+          pip install markdown==2.6.6 nikola==7.7.12 ghp-import2 
       - name: Build Site
         shell: bash -l {0}
         run: nikola build
