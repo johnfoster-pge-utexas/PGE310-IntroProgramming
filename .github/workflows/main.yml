@@ -23,4 +23,4 @@ jobs:
         run: nikola build
       - name: Deploy to Github 
         shell: bash -l {0}
-        run: nikola github_deploy
+        run: ghp-import -n -m "Nikola auto commit" -p -r origin -b gh-pages output --force
