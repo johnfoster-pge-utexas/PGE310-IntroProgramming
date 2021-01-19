@@ -18,7 +18,7 @@ jobs:
         shell: bash -l {0}
         run: |
           pip install markdown==2.6.6 nikola==7.7.12
-          pip install git+https://github.com/c-w/ghp-import/archive/0.6.0.zip
+          pip install git+https://github.com/c-w/ghp-import/archive/0.6.0.tar.gz
       - name: Build Site
         shell: bash -l {0}
         run: nikola build
