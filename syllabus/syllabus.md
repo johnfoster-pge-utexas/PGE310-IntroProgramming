@@ -6,7 +6,7 @@
 .. description: PGE 323M - Reservoir Engineering III syllabus page
 -->
 
-## PGE 310 - Formation and Solution of Geosystems Engineering Problems
+## PGE 311 - Numerical Methods and Computer Programming
 
 
 **Instructor:** John T. Foster, Ph.D.  
@@ -14,12 +14,12 @@
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** CPE 3.114  
-**Class Time:** T-Th 11:00 AM - 12:30 PM  
+**Class Location:** GLT 1.106
+**Class Time:** T-Th 2:00 AM - 3:30 PM  
 **Office Hours:** W 11:00 PM - 12:00 PM Virtual [Zoom Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment. **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable.  
 
 
-**Course Website:** [https://utexas.instructure.com/courses/1333722](https://utexas.instructure.com/courses/1333722)  
+**Course Website:** [https://utexas.instructure.com/courses/1340318](https://utexas.instructure.com/courses/1340318)  
 
 **Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">https://spindletop.pge.utexas.edu</a>  
 
