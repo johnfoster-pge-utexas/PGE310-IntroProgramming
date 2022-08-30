@@ -16,7 +16,7 @@
 
 **Class Location:** GLT 1.106
 **Class Time:** T-Th 2:00 PM - 3:30 PM  
-**Office Hours:** W 11:00 PM - 12:00 PM Virtual [Zoom Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment. **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable.  
+**Office Hours:** W 10:00 AM - 11:00 AM Virtual [Zoom Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment ([scheduling link](https://johnfoster.pge.utexas.edu/calendar/)). **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable.  
 
 
 **Course Website:** [https://utexas.instructure.com/courses/1340318](https://utexas.instructure.com/courses/1340318)  
