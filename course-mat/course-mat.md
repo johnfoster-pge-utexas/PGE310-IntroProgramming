@@ -10,7 +10,7 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 and any other reference material.
 
 
-[Assignments](https://github.com/PGE310-Students?utf8=%E2%9C%93&q=&type=public&language=_)
+[Assignments](https://github.com/PGE311?q=&type=public&language=&sort=)
 
 
 <a href="https://youtu.be/jSNs4I4abKg" target="blank_">Lecture 1 - Jupyter: Notebooks, Hub, and Lab</a> 
