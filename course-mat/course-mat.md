@@ -26,3 +26,5 @@ and any other reference material.
 <a href="https://youtu.be/fOkjvo3Jjs4" target="blank_">Lecture 6 - Introduction to Python: Conditionals and Flow Control</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro_ConditionalsFlowControl.html)) 
 
 <a href="https://youtu.be/-5AEvur4F0c" target="blank_">Lecture 7 - Introduction to Python: Lists, Tuples, and Dictionaries</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro_ListsTuplesDictionaries.html)) 
+
+<a href="https://youtu.be/Uz2F5yYfU6s" target="blank_">Lecture 8 - Python Loops and Conditionals</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro_Loops.html)) 
