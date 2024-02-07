@@ -32,3 +32,7 @@ and any other reference material.
 <a href="https://youtu.be/-pGA4WGoaAQ" target="blank_">Lecture 9 - Introduction to Python: Function Argument Types and Lambda Functions</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro_Functions.html)) 
 
 <a href="https://youtu.be/5QYfp9IF6m0" target="blank_">Lecture 10 - Introduction to Python: Python Classes and Object-Oriented Programming</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro_ObjectOrientedProgramming.html)) 
+
+<a href="https://youtu.be/37WEVRpQJ5M" target="blank_">Lecture 11 - Numpy</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/ScientificPython_Numpy.html)) 
+
+<a href="https://youtu.be/jE-XTWhWLRU" target="blank_">Lecture 12 - Pandas</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/ScientificPython_Pandas.html)) 
