@@ -36,3 +36,9 @@ and any other reference material.
 <a href="https://youtu.be/37WEVRpQJ5M" target="blank_">Lecture 11 - Numpy</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/ScientificPython_Numpy.html)) 
 
 <a href="https://youtu.be/jE-XTWhWLRU" target="blank_">Lecture 12 - Pandas</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/ScientificPython_Pandas.html)) 
+
+<a href="https://youtu.be/1FuSvXlqHns" target="blank_">Lecture 13 - Matplotlib</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/ScientificPython_Matplotlib.html)) 
+
+<a href="https://youtu.be/1FuSvXlqHns" target="blank_">Lecture 14 - Bokeh</a> ([HTML](https://johnfoster.pge.utexas.edu/numerical-methods-book/ScientificPython_Bokeh.html)) 
+
+<a href="https://youtu.be/1FuSvXlqHns" target="blank_">Lecture 15 - SciPy</a> 
