@@ -3,7 +3,7 @@
 .. slug: index
 .. date: 2019-08-28 10:00:00 UTC-05:00
 .. template: notitle.tmpl
-.. description: PGE 323M - Reservoir Engineering III syllabus page
+.. description: PGE 311 - Numerical Methods and Programming
 -->
 
 ## PGE 311 - Numerical Methods and Computer Programming
@@ -14,9 +14,9 @@
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** CPE 3.114A 
+**Class Location:** CPE 2.202
 **Class Time:** T-Th 11:00 PM - 12:30 PM  
-**Office Hours:** W 11:00 AM - 12:00 AM Virtual [Zoom Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment ([scheduling link](https://johnfoster.pge.utexas.edu/calendar/)). **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable.  
+**Office Hours:** W 11:00 AM - 12:00 PM and by appointment. **Note:**  Due to the "reverse classroom" nature of this course, we will spend the majority of in-class time working assignments.  *This is your opportunity to ask questions.*  If you need additional help outside of that, feel free to send me an email I'll be happy to meet with you provided that your in-class attendance and participation are acceptable.  
 
 
 **Course Website:** [https://utexas.instructure.com/courses/1380276](https://utexas.instructure.com/courses/1380276)  
@@ -45,7 +45,7 @@ We will spend a few weeks learning some basic Python syntax and computer program
 
 **Course Introduction and Outline:**
 
-As engineers we often encounter problems too large or too difficult to solve in a conventional manner;  therefore, we resort to using the computer to do the hard work for us.  This is a first course in numerical methods, intended to introduce the student to the algorithms and techniques an engineer might employ in solving these difficult problems.  Most of the algorithms discussed in this class are typically available nowadays in packaged libraries, whether within engineering tools such as MATLAB, Mathematica,  or Python modules; or packaged solvers for lower-level languages such as BLAS, LAPAK, ODEPAK, etc. available for C/C++ and/or FORTRAN.  In the typical course of engineering problem solving we will build our code with these highly robust packages and  not try to "reinvent the wheel"; it is, however, important to have an underlying understanding of some of the fundamental algorithms employed in these packages.  This allows us to choose solvers appropriate to the problem based on our desires for accuracy, stability, speed, etc.  This course is designed to provide the student with this underlying understanding of basic algorithms and a degree of proficiency in programming them.  Below is list of subjects that we will attempt to cover this semester.  As the needs of the class are better understood, I may choose to focus on some areas more than others.
+As engineers we often encounter problems too large or too difficult to solve in a conventional manner;  therefore, we resort to using the computer to do the hard work for us.  This is a first course in numerical methods, intended to introduce the student to the algorithms and techniques an engineer might employ in solving these difficult problems.  Most of the algorithms discussed in this class are typically available nowadays in packaged libraries, whether within engineering tools such as MATLAB, Mathematica, or Python modules; or packaged solvers for lower-level languages such as BLAS, LAPAK, ODEPAK, etc. available for C/C++ and/or FORTRAN.  In the typical course of engineering problem solving we will build our code with these highly robust packages and  not try to "reinvent the wheel"; it is, however, important to have an underlying understanding of some of the fundamental algorithms employed in these packages.  This allows us to choose solvers appropriate to the problem based on our desires for accuracy, stability, speed, etc.  This course is designed to provide the student with this underlying understanding of basic algorithms and a degree of proficiency in programming them.  Below is list of subjects that we will attempt to cover this semester.  As the needs of the class are better understood, I may choose to focus on some areas more than others.
 
  * Python Programming
        * Loops
